@@ -1,0 +1,143 @@
+#header {
+    padding: 10px;
+    background: linear-gradient(to right, rgb(35, 6, 232), rgb(72, 56, 175));
+}
+
+#header img {
+    width: 150px;
+
+}
+
+
+#header ul li a {
+    transition-property: color;
+    transition-duration: 5s;
+    color: white;
+}
+
+#header .container-fluid {
+    padding-left: 0px;
+}
+
+#header ul li a:hover {
+    color: rgb(19, 231, 192);
+}
+
+#header .bi-list {
+    color: white;
+    font-size: 50px;
+
+}
+
+#header .navbar-toggler {
+    border: 1px solid white;
+    margin-top: 20px;
+}
+
+#banner {
+    background: linear-gradient(to right, rgb(35, 6, 232), rgb(72, 56, 175));
+    padding-top: 20px;
+
+}
+
+#banner h4 {
+    text-align: center;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 40px;
+    color: white;
+    text-transform: capitalize;
+}
+
+#banner p {
+    text-align: justify;
+    color: white;
+}
+
+#banner #img {
+    border-radius: 50%;
+    width: 150px;
+}
+
+#banner #banner-img {
+    width: 100%;
+}
+
+#service {
+    padding: 20px 0px;
+}
+
+#service h2 {
+    font-family: 'East Sea Dokdo', cursive;
+    text-transform: capitalize;
+    font-size: 40px;
+
+}
+
+#service h4 {
+    padding-bottom: 13px;
+}
+
+#service p {
+    text-align: justify;
+}
+#testi{
+    padding-bottom: 20px;
+}
+#testi h2 {
+    font-family: 'East Sea Dokdo', cursive;
+    text-transform: capitalize;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+#testi img{
+    width: 100px;
+    border-radius: 50%;
+}
+#testi p{
+    text-align: justify;
+    text-transform: capitalize;
+
+}
+#testi span{
+    font-size: 20px;
+}
+#footer {
+    background: linear-gradient(to right, rgb(35, 6, 232), rgb(72, 56, 175));
+    padding-bottom: 20px;
+}
+
+#footer h2 {
+    font-family: 'East Sea Dokdo', cursive;
+    text-transform: capitalize;
+    font-size: 40px;
+
+}
+
+
+
+#footer p {
+    text-align: justify;
+    color: white;
+}
+
+#footer span {
+    font-size: 30px;
+    color: aqua;
+}
+
+
+#footer #footer-logo {
+    width: 150px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+
+}
+
+#footer #footer-image {
+    width: 100%;
+}
+
+#footer img {
+    width: 100px;
+}
